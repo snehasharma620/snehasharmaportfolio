@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sneha Sharma | Portfolio</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="bg"></div>
+
+<header class="glass">
+  <img src="profile.jpg" class="profile">
+  <h1>Sneha Sharma</h1>
+  <p>Electronics & Communication Engineer • Full Stack Developer</p>
+  <div class="btns">
+    <a href="#projects">View Projects</a>
+    <a href="sneha resume 4.pdf" target="_blank">Download Resume</a>
+  </div>
+</header>
+
+<section class="glass">
+  <h2>About Me</h2>
+  <p>
+    Final-year Electronics & Communication Engineering student with strong problem-solving skills and hands-on experience in Python, SQL, backend development and full-stack web applications. Passionate about building scalable and data-driven digital solutions.
+  </p>
+</section>
+
+<section class="glass">
+  <h2>Skills</h2>
+  <div class="skills">
+    <span>Python</span><span>Java</span><span>SQL</span><span>JavaScript</span>
+    <span>HTML</span><span>CSS</span><span>React</span><span>Node.js</span>
+    <span>MySQL</span><span>MongoDB</span><span>Git</span><span>REST APIs</span>
+  </div>
+</section>
+
+<section class="glass" id="projects">
+  <h2>Projects</h2>
+  <div class="cards">
+    <div class="card">Student Performance & Placement Prediction System</div>
+    <div class="card">SMS Spam Detector</div>
+    <div class="card">E-Commerce Web Application</div>
+  </div>
+</section>
+
+<section class="glass">
+  <h2>Contact</h2>
+  <p>Email: snehaysharma1105@gmail.com</p>
+  <p>GitHub: github.com/snehasharma620</p>
+  <p>LinkedIn: linkedin.com/in/sneha-sharma-a4726a289</p>
+</section>
+
+<footer>© 2026 Sneha Sharma</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
